@@ -1,2 +1,2 @@
 # furry-garbanzo
-PrimerRepoaitorio
+PrimerRepositorio
